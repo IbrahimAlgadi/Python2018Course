@@ -41,4 +41,4 @@ until finished
 ## Acknowledgments
 
 * Great thanks to my friend Mohammed Almudather Yahya
-* Great thanks to MCI
+* Great thanks to [Sudanese Marie Curie initiative - SMCI](https://mobile.facebook.com/Sudanese.MCI)
