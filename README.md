@@ -1,4 +1,4 @@
-# Python Course 2018
+# Python2.7 Course 2018
 
 This course will help you to understand the syntax of python, the common errors and writing good code.
 
@@ -6,7 +6,7 @@ This course will help you to understand the syntax of python, the common errors 
 
 All you need is a good internet and you need to download the sources from the links below and have python up and running in your system
 
-### How to
+### Get Started
 
 1 - In order to get the most out of this course you need to have anaconda and jupyter notebook installed in your system and well configured
 
@@ -19,36 +19,24 @@ download anaconda from the links list below and install it
 3 - run jupyter notebook from the anaconda list
 
 ![jupyter searching using windows search](search_jupyter.JPG)
+
 ```
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+4 - after you run it, jupyter notebook will open in the browser then you click new create new folder give it any name
 
-## Running the tests
+![jupyter searching using windows search](creat_new_folder.JPG)
 
-Explain how to run the automated tests for this system
+5 - then click that folder and open it, after that click the upload button
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+6 - locate the .ipynb file to have it in your control, then you are ready to good
 
 ## Links
 
 * [python](https://www.python.org/) - Python Programming Language
 * [anaconda](https://www.anaconda.com/download/) - Contains jupyter notebook which is a nice tool for learning
+* [jupyter notebook how to use](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/) - How to use jupyter notebook
 
 ## Acknowledgments
 
