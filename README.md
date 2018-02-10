@@ -30,7 +30,7 @@ until finished
 
 5 - then click that folder and open it, after that click the upload button
 
-6 - locate the .ipynb file to have it in your control, then you are ready to go
+6 - locate the .ipynb upload it to the file then run it, then you are ready to go
 
 ## Links
 
