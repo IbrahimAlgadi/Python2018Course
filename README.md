@@ -21,9 +21,11 @@ download anaconda from the links list below and install it
 ![jupyter searching using windows search](search_jupyter.JPG)
 
 ```
-until finished
+let jupyter start until it opens a web page in the browser
 ```
-
+```
+if it didn't open it then open http://localhost:8888/ usually or check the cmd of what url it is asking you to put in the browser
+```
 4 - after you run it, jupyter notebook will open in the browser then you click new create new folder give it any name
 
 ![jupyter searching using windows search](creat_new_folder.JPG)
