@@ -36,7 +36,7 @@ until finished
 
 * [python](https://www.python.org/) - Python Programming Language
 * [anaconda](https://www.anaconda.com/download/) - Contains jupyter notebook which is a nice tool for learning
-* [jupyter notebook how to use](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/) - How to use jupyter notebook
+* [pythonprogramming.net](https://pythonprogramming.net) - Contains various courses for python programming language
 
 ## Acknowledgments
 
