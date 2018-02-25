@@ -1,3 +1,4 @@
+from math import *
 
 def help_menue():
     # this is the help variable
